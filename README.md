@@ -2,8 +2,7 @@
 Welcome to our hack!
 
 ## Project Idea
-<Needs to be filled>
+Needs to be filled
 
 ## How It Works
-<Needs to be filled>
-
+Needs to be filled
